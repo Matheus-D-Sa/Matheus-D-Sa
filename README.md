@@ -29,7 +29,7 @@ Atualmente, desenvolvo projetos com foco em análise de segurança pública, per
 
 [![Projeto Semantix](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-D-Sa&repo=projeto-seguranca-publica&theme=radical)](https://github.com/Matheus-D-Sa/projeto-seguranca-publica)
 
-[![Projeto Esportivo](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-D-Sa&repo=analise_performance_esportiva&theme=radical)](https://github.com/Matheus-D-Sa/analise_performance_esportiva)
+[![Projeto Esportivo](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-D-Sa&repo=sports_performance_analysis&theme=radical)](https://github.com/Matheus-D-Sa/analise_performance_esportiva)
 
 ---
 
