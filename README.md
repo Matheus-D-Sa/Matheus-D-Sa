@@ -3,7 +3,7 @@
 ###### Sobre mim
 Sou Matheus de Sá Gonçalves, Analista de Dados com formação pela EBAC e graduação em Análise e Desenvolvimento de Sistemas pelo IESB. Tenho experiência com análise de dados, desenvolvimento de sistemas e suporte técnico. Sou apaixonado por aprender, colaborar e resolver problemas com dados.
 
-Atualmente, desenvolvo projetos com foco em análise de segurança pública, performance esportiva, empregabilidade e outros temas de impacto social. Utilizo ferramentas como Python, SQL, Looker Studio, Power BI e GitHub para transformar dados em insights valiosos.
+Atualmente, Os projetos envolvem desde coleta e tratamento de dados até visualizações interativas e geração de insights em temas como segurança pública, esportes e mercado de trabalho. Utilizo ferramentas como Python, SQL, Looker Studio, Power BI e GitHub para transformar dados em insights valiosos.
 
 ---
 
